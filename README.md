@@ -30,8 +30,9 @@ Sou apaixonado por desenvolvimento de software e estou construindo minha carreir
 
 ## 📚 Atualmente estudando
 
-- React
-- Next.js
+- TypeScript
+- React e Next.js
+- TailWind
 - UI/UX
 - Linux
 - Consumo de APIs REST
