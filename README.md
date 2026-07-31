@@ -48,5 +48,5 @@ Sou apaixonado por desenvolvimento de software e estou construindo minha carreir
 
 ## 📫 Contato
 
-- LinkedIn
+- LinkedIn: www.linkedin.com/in/luis-diniz-dev
 - Email
