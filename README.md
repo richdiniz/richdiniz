@@ -19,30 +19,24 @@ Here are some ideas to get you started:
 Sou apaixonado por desenvolvimento de software e estou construindo minha carreira como desenvolvedor.
 
 ## 🚀 Tecnologias
-
 - HTML
 - CSS
 - JavaScript
 - Java
-- Node.js (aprendendo)
 - Git
 - GitHub
 
 ## 📚 Atualmente estudando
-
 - TypeScript
 - React e Next.js
 - TailWind
 - UI/UX
 - Linux
-- Consumo de APIs REST
-- Arquitetura e Organização de Computadores
-- Programação Orientada a Objetos
+- Java Swing
+- POO
 - Banco de Dados
 
 ## 🎯 Objetivos
-
-- Desenvolver APIs REST
 - Construir projetos completos
 - Contribuir para projetos Open Source
 - Conseguir minha primeira oportunidade na área
