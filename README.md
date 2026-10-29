@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Estudante de Sistemas de Informação
-
+💻 Estudante de Sistemas de Informação.
 Sou apaixonado por desenvolvimento de software e estou construindo minha carreira como desenvolvedor.
 
 ## 🚀 Tecnologias
